@@ -10,6 +10,7 @@ Boom Hat is a Garage Door Opener HAT for Raspberry Pi Zero, featuring one opto i
 - 1 Opto isolated Digital Output
 - DC-DC step down converter for powering the RPI Zero
 - Block terminals for ease of installation
+- Double size pin header to fit the hat on top of a standard RPI Zero enclosure
 
 **Example Application:**
 - Garage Door Opener
