@@ -10,7 +10,7 @@ Boom! has the ability to tap-in to existing garage door controllers and safely c
 
 The Boom! Hat for raspberry pi zero has a built in DC-DC step down convertor, that allows you to power up the Pi directly from the DC power source of the Garage door controller. It also has one optically isolated digital output for controlling the garage door from its built-in NO contact (AUX contact)
 
-![Boom](https://github.com/Irdroid/boom/blob/main/Documents/3.jpg)
+![Boom](https://github.com/Irdroid/boom/blob/main/Documents/collage.jpg)
 
 
 
